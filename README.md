@@ -3,19 +3,13 @@
 
 ### Biochemist | Clinical Laboratory | Data Analysis
 
-I'm a Biochemist with over 3 years of experience
-in clinical laboratories, including microscopy,
-clinical chemistry, laboratory diagnostics,
-quality control, and result validation.
+I'm a Biochemist with over 3 years of experience in clinical laboratories, including microscopy, clinical chemistry, laboratory diagnostics, quality control, and result validation.
 
-My background includes scientific research,
-laboratory supervision, and international work
-experience in New Zealand.
+My professional background combines scientific research, clinical laboratory supervision, and extensive experience in laboratory data management, quality control, and analytical result validation.
 
-I'm currently developing my skills in Python,
-Data Science, and Machine Learning, with a
-particular interest in healthcare and scientific
-data analysis.
+I apply my clinical expertise and data analysis skills to organize, clean, validate, and interpret healthcare and scientific datasets. Using Python, Pandas, and data visualization tools, I focus on data quality assessment, exploratory analysis, and transforming complex information into meaningful insights.
+
+I'm particularly interested in clinical data analytics, healthcare research, and data-driven solutions that support scientific and medical decision-making.
 
 ## 🔬 Professional Expertise
 
