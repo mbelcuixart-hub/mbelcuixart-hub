@@ -1,5 +1,5 @@
 
-# Hi, I'm Maria Belen! 👋
+# Hi, I'm Maria Belen! 
 
 ### Biochemist | Clinical Laboratory | Data Analysis
 
