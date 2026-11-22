@@ -32,9 +32,18 @@ I'm particularly interested in clinical data analytics, healthcare research, and
 ## 📊 Featured Projects
 
 ### 🧪 Clinical Laboratory Data Analysis
-Data quality assessment and exploratory analysis
-of simulated clinical laboratory results using
-Python, Pandas, and Seaborn.
+
+### 🧪 Clinical Laboratory Data Analysis & Quality Control
+
+Python-based analysis of 200 synthetic clinical
+laboratory records, including automated data
+quality checks, result validation rules,
+exploratory data analysis, and visualization.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+🔗 [View Project](https://github.com/USERNAME/clinical-laboratory-data-analysis)
+
 
 ### 🤖 Healthcare Data Quality & Machine Learning
 Evaluation of healthcare datasets, including
