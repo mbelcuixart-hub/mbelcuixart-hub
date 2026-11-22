@@ -31,8 +31,6 @@ I'm particularly interested in clinical data analytics, healthcare research, and
 
 ## 📊 Featured Projects
 
-### 🧪 Clinical Laboratory Data Analysis
-
 ### 🧪 Clinical Laboratory Data Analysis & Quality Control
 
 Python-based analysis of 200 synthetic clinical
@@ -42,7 +40,7 @@ exploratory data analysis, and visualization.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-🔗 [View Project](https://github.com/USERNAME/clinical-laboratory-data-analysis)
+🔗 [View Project](https://github.com/mbelcuixart-hub/clinical-laboratory-data-analysis)
 
 
 ### 🤖 Healthcare Data Quality & Machine Learning
