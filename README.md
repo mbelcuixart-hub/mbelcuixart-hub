@@ -45,20 +45,6 @@ exploratory data analysis, and visualization.
 
 ### 🤖 Healthcare Data Quality & Machine Learning
 
-## 📊 Featured Projects
-
-### 🧪 Clinical Laboratory Data Analysis & Quality Control
-
-Analysis of 200 synthetic clinical laboratory records,
-including automated data quality checks, validation
-rules, exploratory data analysis, and visualization.
-
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
-
-🔗 [View Project](https://github.com/USERNAME/clinical-laboratory-data-analysis)
-
-### 🤖 Healthcare Data Quality & Machine Learning
-
 Healthcare dataset analysis focused on data quality,
 duplicate detection, data leakage assessment, and
 machine learning model evaluation.
