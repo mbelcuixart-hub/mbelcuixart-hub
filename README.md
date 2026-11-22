@@ -43,8 +43,7 @@ data leakage detection.
 
 ## 🌍 International Experience
 
-Professional experience in Argentina and
-New Zealand, collaborating with multicultural
+Professional experience collaborating with multicultural
 teams in clinical and industrial environments.
 
 ## 📫 Let's Connect
